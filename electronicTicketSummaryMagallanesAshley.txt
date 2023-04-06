@@ -1,0 +1,26 @@
+Name: Ashley Magallanes
+******************** Ticket Summary ********************
+1.Confirmation Number: 6386
+2.Flight Origin Airport Code: BOS
+3.Flight Origin Airport Name: Logan International Airport
+4.Flight Destination Airport Code: ELP
+5.Flight Destination Airport Name: El Paso International Airport
+6.Departure Date: 3/26/23
+7.Departure Time: 5:30 AM
+8.Arrival Date: 3/26/23
+9.Arrival Time: 12:05 PM
+10.Ticket Type: Main
+11.Ticket Quantity: 2
+12.Total Cost: 145.98
+1.Confirmation Number: 6041
+2.Flight Origin Airport Code: CDG
+3.Flight Origin Airport Name: Paris Charles de Gaulle Airport
+4.Flight Destination Airport Code: ELP
+5.Flight Destination Airport Name: El Paso International Airport
+6.Departure Date: 3/24/23
+7.Departure Time: 12:10 PM
+8.Arrival Date: 3/24/23
+9.Arrival Time: 2:49 PM
+10.Ticket Type: Business
+11.Ticket Quantity: 5
+12.Total Cost: 3661.45
